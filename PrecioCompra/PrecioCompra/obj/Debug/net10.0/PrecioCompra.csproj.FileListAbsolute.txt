@@ -1,0 +1,15 @@
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\bin\Debug\net10.0\PrecioCompra.exe
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\bin\Debug\net10.0\PrecioCompra.deps.json
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\bin\Debug\net10.0\PrecioCompra.runtimeconfig.json
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\bin\Debug\net10.0\PrecioCompra.dll
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\bin\Debug\net10.0\PrecioCompra.pdb
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\PrecioCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\PrecioCompra.AssemblyInfoInputs.cache
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\PrecioCompra.AssemblyInfo.cs
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\PrecioCompra.csproj.CoreCompileInputs.cache
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\PrecioCompra.dll
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\refint\PrecioCompra.dll
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\PrecioCompra.pdb
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\PrecioCompra.genruntimeconfig.cache
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\ref\PrecioCompra.dll
+C:\Users\oband\Documents\Programacion ll\PrecioCompra\PrecioCompra\obj\Debug\net10.0\PrecioCo.7F2AAD34.Up2Date
